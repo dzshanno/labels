@@ -8,8 +8,6 @@
  * @link       http://your.url.com
  */
 
-defined('_JEXEC') or die;
+defined('_JEXEC') or die; ?>
 
-?>
-
-	<?php echo "labels"; ?>
+	<?php echo $labeltemplate; ?>
