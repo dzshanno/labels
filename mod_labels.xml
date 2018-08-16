@@ -7,7 +7,7 @@
 	<authorUrl>http://www.wallingfordhc.org.uk</authorUrl>
 	<copyright>Copyright</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<version>1.1</version>
+	<version>1.2</version>
 	<description>MOD_LABELS_XML_DESCRIPTION</description>
 
 	<files>
@@ -30,7 +30,7 @@
 					type="url"
 					label="MOD_LABELS_URL_LABEL"
 					description="MOD_LABELS_URL_DESCRIPTION"
-					hint="https://www.example.com"
+					hint="https://www.wallingfordhc.org.uk"
 					filter="url"
 					validate="url"
 				/>
