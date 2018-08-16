@@ -12,4 +12,4 @@ defined('_JEXEC') or die;
 
 ?>
 
-	<?php echo 'labels'; ?>
+	<?php echo "labels"; ?>
